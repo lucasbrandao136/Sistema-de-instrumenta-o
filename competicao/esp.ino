@@ -2,8 +2,8 @@
 #include <ESP8266WiFi.h>
 #include <WiFiUdp.h>
 
-const char* ssid = "GABRIEL"; // sua rede
-const char* password = "W3#FUu7WRgg!"; // sua senha
+const char* ssid = "nomedarede"; // sua rede
+const char* password = "senhadarede!"; // sua senha
 
 #define PIN_SENSOR 0 // GPIO0 - sensor
 #define PIN_VERDE 2 // GPIO2 - LED verde
